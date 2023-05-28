@@ -1,2 +1,2 @@
 # Tourist_Interface
-Tourist website final output screenshots.
+Tourist website code and final output screenshots.
